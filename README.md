@@ -1,6 +1,5 @@
-"# jobseeker-react"
+"# jobseeker-react Project"
 
-!()[./public/screenshot/screenshot1.jpg]
-
-!()[./public/screenshot/screenshot2.jpg]
-!()[./public/screenshot/screenshot3.jpg]
+!()[public/screenshot/screenshot1.jpg]
+!()[public/screenshot/screenshot2.jpg]
+!()[public/screenshot/screenshot3.jpg]
